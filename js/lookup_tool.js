@@ -1,5 +1,5 @@
 var geocoder = new google.maps.Geocoder;
-var INFO_API = 'https://civicinfo.googleapis.com/civicinfo/v2/representatives';
+var INFO_API = 'https://civicinfo.googleapis.com/civicinfo/v2/representatives'; 
 //https://civicinfo.googleapis.com/civicinfo/v2/representatives
 //https://www.googleapis.com/civicinfo/v2/representatives
 // parsing out division IDs
